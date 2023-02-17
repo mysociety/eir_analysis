@@ -1,5 +1,5 @@
 ---
-title: "Download template_data_repo"
+title: "Download eir_analysis"
 layout: datasets/front
 ---
 
